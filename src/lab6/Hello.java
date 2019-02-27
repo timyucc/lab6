@@ -11,9 +11,14 @@ package lab6;
  */
 public class Hello {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("from raj says hi");
         System.out.println(":D");
         System.out.println("please work");
+=======
+        System.out.println("from raj");
+        System.out.println("it finally works thank god");
+>>>>>>> origin/master
     }
  
 }
