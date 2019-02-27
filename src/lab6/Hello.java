@@ -12,7 +12,7 @@ package lab6;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("from raj");
-        
+        System.out.println("it finally works thank god");
     }
  
 }
