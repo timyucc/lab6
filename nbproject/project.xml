@@ -6,6 +6,9 @@
             <name>lab6</name>
             <source-roots>
                 <root id="src.dir"/>
+                <root id="src.dir"/>
+                <root id="src.nbproject.dir"/>
+                <root id="src..git.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
